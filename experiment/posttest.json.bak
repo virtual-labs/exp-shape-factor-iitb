@@ -10,7 +10,7 @@
     },
 
     {
-        "question": "Find the shape factor with respect to itself. Given that the cylindrical cavity is of diameter 11cm and depth of 10cm. Refer image in simulation. <br> $$ F<sub>1-1</sub> = 1 - \\frac{A_2}{A_1} $$",
+        "question": "Find the shape factor with respect to itself. Given that the cylindrical cavity is of diameter 11cm and depth of 10cm. Refer image in simulation. <br> $$ F_1-1 = 1 - \\frac{A_2}{A_1} $$",
         "qid": 1,
         "option_a": "2.43",
         "option_b": "1.234",
