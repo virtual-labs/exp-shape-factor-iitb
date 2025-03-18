@@ -1,30 +1,30 @@
 [
 
     {
-        "question": "Pressure head is given by",
+        "question": "Reciprocity theorem states that",
         "qid": 1,
-        "option_a": "$$ \\frac{p}{\\rho \\times g} + z $$",
-        "option_b": "$$ \\frac{p}{\\rho \\times g} + \\frac{v^2}{2 g} $$",
-        "option_c": "$$ \\frac{p}{\\rho \\times g} $$",
-        "option_d": "$$ z $$",
-        "correct_option": "c"
+        "option_a": "$$ A_1F_{1-2} = F_{2-1} $$",
+        "option_b": "$$ A_1F_{1-2} = A_2 $$",
+        "option_c": "$$ A_1F_{1-2} = A_2F_{1-1} $$",
+        "option_d": "$$ A_1F_{1-2} = A_2F_{2-1} $$",
+        "correct_option": "d"
     },
     {
-        "question": "Velocity head is given by",
+        "question": "Enclosure theorem states that",
         "qid": 2,
-        "option_a": "$$ \\frac{v^2}{2g} $$",
-        "option_b": "$$ \\frac{v^2}{2} $$",
-        "option_c": "$$ \\frac{v^2}{g} $$",  
-        "option_d": "$$ \\frac{v^2}{2g} + z $$",
-        "correct_option": "a"
+        "option_a": "$$ F_{11} - F_{12} - F_{13} - ... - F_{1n} = 1 $$",
+        "option_b": "$$ F_{11} + F_{12} + F_{13} + ... + F_{1n} = 1  $$",
+        "option_c": "$$ F_{11} - F_{12} - F_{13} - ... - F_{1n} = n $$",  
+        "option_d": "$$ F_{11} + F_{12} + F_{13} + ... + F_{1n} = n $$",
+        "correct_option": "b"
     },
     {
-        "question": "The direction of the flow is dictated by",
+        "question": "If the surface (2) is made up of two small surface namely (3) & (4) then shape factor of (1) w.r.t (2) is",
         "qid": 3,
-        "option_a": "Pressure head",
-        "option_b": "Velocity head",
-        "option_c": "Total head",
-        "option_d": "Potential head",
-        "correct_option": "c"
+        "option_a": "$$ F_{1-2} = F_{1-3} + F_{1-4} $$",
+        "option_b": "$$ F_{1-2} = F_{1-3} - F_{1-4} $$",
+        "option_c": "$$ F_{1-2} = F_{1-3} \\times F_{1-4} $$",
+        "option_d": "$$ F_{1-2} = \\frac{F_{1-3}}{F_{1-4}} $$",
+        "correct_option": "a"
     }
 ]
